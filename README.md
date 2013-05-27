@@ -1,6 +1,6 @@
 # Thorax::Rails
 
-TODO: Write a gem description
+Its a thorax gem for your rails app
 
 ## Installation
 
