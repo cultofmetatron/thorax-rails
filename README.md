@@ -1,5 +1,7 @@
 # Thorax::Rails
 
+##in development
+
 Its a thorax gem for your rails app
 
 ## Installation
