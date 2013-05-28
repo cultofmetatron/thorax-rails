@@ -2,6 +2,7 @@ require 'rails'
 
 module Thorax
   module Rails
-    require 'backbone-rails/engine'
+    class Engine < ::Rails::Engine
+    end
   end
 end
