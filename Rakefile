@@ -31,7 +31,7 @@ namespace :thorax do
   desc "Download the latest releases of backbone, underscore and thorax"
   task :download_latest do
     files = {
-      'undercore.js' => 'http://underscorejs.org/underscore.js',
+      'underscore.js' => 'http://underscorejs.org/underscore.js',
       'backbone.js'  => 'http://backbonejs.org/backbone.js',
       'handlebars.js' => 'https://raw.github.com/wycats/handlebars.js/master/lib/handlebars.js'
 
