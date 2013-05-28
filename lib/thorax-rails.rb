@@ -1,6 +1,6 @@
-require "rails"
+require 'rails'
 
-module ThoraxRails
-  class Engine < Rails::Engine
-  end
+module Thorax
+    class Engine < Rails::Engine
+    end
 end
