@@ -1,4 +1,4 @@
-module ThoraxRails
+module Thorax
   module Generators
     module ResourceHelpers
 
