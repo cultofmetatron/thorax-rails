@@ -1,4 +1,4 @@
-module Thorax
+module ThoraxRails
   module Rails
     VERSION = "4.0.0"
   end

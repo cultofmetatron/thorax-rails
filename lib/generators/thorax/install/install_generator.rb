@@ -1,7 +1,7 @@
 require 'rails'
 require 'generators/thorax/resource_helpers'
 
-module Thorax
+module ThoraxRails
   module Generators
     class InstallGenerator < Rails::Generators::Base
 
