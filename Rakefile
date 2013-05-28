@@ -36,7 +36,7 @@ namespace :thorax do
       'handlebars.js' => 'https://raw.github.com/wycats/handlebars.js/master/lib/handlebars.js'
 
     }
-    vendor_dir = "vendor/assets/javascripts"
+    vendor_dir = "vendor/assets/javascripts/thorax"
 
     require 'open-uri'
     files.each do |local, remote|

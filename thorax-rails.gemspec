@@ -23,13 +23,13 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'jquery-rails'
   spec.add_dependency 'ejs'
 
-  spec.add_development_dependency "rails"
-  spec.add_development_dependency 'rack', [">= 1.5.2"]
+ # spec.add_development_dependency "rails"
+ # spec.add_development_dependency 'rack'#, [">= 1.5.2"]
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
-  spec.add_development_dependency "rspec"
-  spec.add_development_dependency "rest-client"
-  spec.add_development_dependency "capybara", [">= 1.3.6"]
+ # spec.add_development_dependency "rspec"
+ # spec.add_development_dependency "rest-client"
+ # spec.add_development_dependency "capybara", [">= 1.3.6"]
 
   spec.require_paths = ['lib']
 

@@ -7,7 +7,7 @@ Module Thorax
 
       source_root File.expand_path("../templates", __FILE__)
       desc "This generator installs backbone.js, handlebars, thorax and thorax-mobile " +
-           " in app/assetts/javascripts/thorax"
+           " in app/assets/javascripts/thorax"
 
       class_option :skip_git, :type    => :boolean,
                               :aliases => "-G",
