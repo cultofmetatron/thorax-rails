@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "thorax-rails"
-  spec.version       = Thorax::Rails::VERSION
+  spec.version       = "0.0.1" #Thorax::Rails::VERSION
   spec.authors       = ["cultofmetatron"]
   spec.email         = ["cultofmetatron@aumlogic.com"]
   spec.description   = %q{Thorax on rails}

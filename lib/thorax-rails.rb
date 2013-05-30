@@ -2,6 +2,6 @@ require 'rails'
 
 module Thorax
   module Rails
-    require 'backbone-rails/engine'
+    require 'thorax-rails/engine'
   end
 end
